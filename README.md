@@ -2,3 +2,5 @@
 testing my setup
 A line I wrote on my local computer
 second test for credential helper
+
+This is a line from Rstudio
